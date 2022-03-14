@@ -20,4 +20,4 @@ From root folder of the project
 - npm install
 - npm run start
 
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+#### Enjoy working carousel with cute cats and savage sharks images with keyboard support at [http://localhost:3000](http://localhost:3000).
